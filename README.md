@@ -43,7 +43,7 @@ py merge.py
 
 #### Final video output will be in "/result/upscaled.mp4".
 
-### 
+##
 
 This is a personal project and not represents a final product.
 
